@@ -1,0 +1,13 @@
+Name of Quantlet: 'PDRPC_crypto_data'
+
+Published in: 'Master Thesis: Portfolio Diversification based on Risk Profile Clustering'
+
+Description: 'Empirical results for crypto data. Clustering based on risk measuring variables, PCA or Factor Analysis. Select best crypto from each cluster
+and calculate Portfolio Allocation'
+
+Keywords: 'cryptocurrency, clustering, PCA, Factor Analysis, Portfolio Allocation'
+
+Author: 'Judith Bender'
+
+
+Datafile: 'logreturns_crypto.csv'
